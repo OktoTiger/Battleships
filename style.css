@@ -1,0 +1,11 @@
+body {
+    font-family: "Helvetica";
+    background-color: #f6f8fa;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    background: rgb(36, 31, 28); /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    
+  }
